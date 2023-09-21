@@ -1,6 +1,6 @@
 # 👋 E aí, tudo bem? 
 
-- Me chamo **Bruno da Paz** e trabalho na área de Tech à 8 anos 👨‍💻
+- Me chamo **Bruno da Paz** e trabalho na área Tech à 8 anos 👨‍💻
 - Gosto de compartilhar alguns estudos e projetos aqui no GIT 📚
 - Em breve mais detalhes sobre mim em meu portfólio online 🚀
 
