@@ -1,12 +1,21 @@
 # 👋 E aí, tudo bem? 
 
-- Me chamo **Bruno da Paz** e trabalho na área Tech à 8 anos 👨‍💻
 - Gosto de compartilhar alguns estudos e projetos aqui no GIT 📚
-- Em breve mais detalhes sobre mim em meu portfólio online 🚀
+- Em meus repositórios você vai encontrar: Sites, SCRIPT's e Algorítmos 👨🏽‍💻
+- Em breve mais detalhes sobre mim em meu **Portfólio** online 🚀
 
-### 💻 Skills
+### 💻 Hard Skills
 ```
-Em breve...
+- Linguagens de programação conhecidas: C#, JS, Delphi e Python;
+- Prática em desenvolvimento WEB;
+- Experiência em Análise de Sistema e Análise de Dados.
+```
+
+### 💻 Soft Skills
+```
+- Comunicação;
+- Resolução de Problemas;
+- Gerenciamento de Tempo.
 ```
 
 ### 🔗 Links
