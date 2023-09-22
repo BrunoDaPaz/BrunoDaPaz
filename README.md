@@ -11,7 +11,7 @@
 - Experiência em Análise de Sistema e Análise de Dados.
 ```
 
-### 💻 Soft Skills
+### 🧠 Soft Skills
 ```
 - Comunicação;
 - Resolução de Problemas;
